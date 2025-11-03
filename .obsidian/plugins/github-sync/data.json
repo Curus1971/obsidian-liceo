@@ -1,7 +1,7 @@
 {
   "remoteURL": "https://github.com/Curus1971/obsidian-liceo.git",
   "gitLocation": "",
-  "syncinterval": 10,
+  "syncinterval": 0,
   "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }
