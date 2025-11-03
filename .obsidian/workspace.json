@@ -11,14 +11,12 @@
             "id": "23002ac373fbe756",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "storia/NotebookLM Mind Map.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "NotebookLM Mind Map"
             }
           },
           {
@@ -173,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "storia/NotebookLM Mind Map.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of NotebookLM Mind Map"
             }
           }
         ],
@@ -207,16 +205,16 @@
   },
   "active": "23002ac373fbe756",
   "lastOpenFiles": [
+    "storia/WhatsApp Scan 2025-11-03 at 08.46.48.pdf",
+    "LINK SECONDI.pdf",
+    "README.md",
     "Untitled.base",
     "storia/NotebookLM Mind Map.png",
-    "README.md",
     "inglese/3.11.25.md",
     "calendario/2025-11-05.md",
     "calendario",
-    "storia/WhatsApp Scan 2025-11-03 at 08.46.48.pdf",
     "inglese",
     "storia dell'arte/Arte Paleocristiana, catacombe, basilica e mausoleo di santa costanza.pdf",
-    "LINK SECONDI.pdf",
     "storia dell'arte",
     "Indice.md",
     "Ricette/Meringhe alle Noci.md",
